@@ -14,8 +14,13 @@ And in the replace box write
 ```
 $1:
 ```
+
 ![image](https://i.imgur.com/61Qv2xh.png)
+<br>
 And like magic this:
+<br>
 ![image](https://i.imgur.com/O076s6H.png)
+<br>
 Will turn into this:
+<br>
 ![image](https://i.imgur.com/cjrYlSN.png)
